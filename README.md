@@ -14,7 +14,7 @@ A young-dumb 🤓 back end developer from India.
 - 📝 I write in-depth, long-form articles on my website [@amolmadake](https://dev.to/amolmadake)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,graphql,kafka,html,css,azure,kubernetes,docker,git,redis,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,graphql,kafka,html,css,jquery,azure,kubernetes,docker,git,redis,npm,yarn,postman,ubuntu,powershell,bitbucket,visualstudio,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
